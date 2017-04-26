@@ -33,3 +33,5 @@ Training camp for algorithms
 
 <a href="https://rails.devcamp.com/courses">Rails Camp Courses</a>
 The curriculum here is extensive and free
+
+<a href="http://billpatrianakos.me/blog/2013/10/13/list-of-rails-status-code-symbols/">List of Rails Status Code Symbols</a>
