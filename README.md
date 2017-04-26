@@ -35,3 +35,4 @@ Training camp for algorithms
 The curriculum here is extensive and free
 
 <a href="http://billpatrianakos.me/blog/2013/10/13/list-of-rails-status-code-symbols/">List of Rails Status Code Symbols</a>
+This one is from Lesson 25 in Firehose Track 3
